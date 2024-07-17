@@ -183,6 +183,42 @@ Action A         [Condition 2]
 6. **Constraints:** Rules that apply to the data element (e.g., unique, not null).
 7. **Relationships:** Connections to other data elements or tables.
 
+
+**(c) What is HIPO? Write down the differences between HIPO and IPO.**
+**HIPO (Hierarchy plus Input-Process-Output):** HIPO is a documentation technique used in systems analysis and design. It involves creating a hierarchical chart that represents the system's major functions and a set of diagrams that describe the inputs, processes, and outputs for each function.
+
+**Differences between HIPO and IPO:**
+1. **Structure:**
+   - **HIPO:** Hierarchical structure showing the breakdown of the system into major functions and sub-functions.
+   - **IPO:** Linear structure focusing on the flow of data through inputs, processes, and outputs without a hierarchical breakdown.
+
+2. **Focus:**
+   - **HIPO:** Emphasizes both the hierarchical organization of the system and the detailed documentation of inputs, processes, and outputs.
+   - **IPO:** Focuses primarily on the relationship between inputs, processes, and outputs for individual components.
+
+3. **Usage:**
+   - **HIPO:** Used for both high-level system overview and detailed component design.
+   - **IPO:** Typically used for detailed documentation of specific processes or components.
+
+4. **Documentation:**
+   - **HIPO:** Combines a hierarchy chart with a series of IPO charts.
+   - **IPO:** Consists solely of IPO charts without a hierarchical structure.
+
+**(d) Define the following:**
+
+1. **User Interface Design:** 
+   User Interface (UI) Design is the process of designing the interface through which users interact with a system. It involves creating layouts, interactive elements, and visual aesthetics to ensure a user-friendly and effective interaction. Key aspects include consistency, simplicity, feedback, and accessibility.
+
+2. **Quality Assurance:** 
+   Quality Assurance (QA) refers to the systematic processes and procedures put in place to ensure that a product or service meets specified requirements and standards. In software development, QA involves testing, code reviews, and process audits to identify and rectify defects and ensure high-quality outcomes.
+
+3. **Coupling:** 
+   Coupling refers to the degree of interdependence between software modules. High coupling means modules are highly dependent on each other, which can make the system less modular and harder to maintain. Low coupling is desirable as it indicates that modules are independent and changes in one module will have minimal impact on others.
+
+4. **Cohesion:** 
+   Cohesion refers to the degree to which the elements within a module belong together. High cohesion means that the elements within a module are highly related and work together to achieve a single purpose. High cohesion is desirable because it makes the module more understandable, maintainable, and reusable.
+
+
 ### Question 6
 **(a) What is cost-benefit analysis? Explain with example.**
 **Cost-Benefit Analysis:** A systematic approach to estimating the strengths and weaknesses of alternatives to determine the best option.
