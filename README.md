@@ -40,6 +40,12 @@ This repository includes answers to the following questions from the B.Sc (HONS)
 
 1. (a) Describe decision table and decision tree with examples.
 2. (b) What is data dictionary? What points should be considered in constructing a data dictionary?
+3. (c) What is HIPO? Write down the differences between HIPO and IPO.
+4. (d) Define the following:
+    1. User Interface Design
+    2. Quality Assurance
+    3. Coupling
+    4. Cohesion
 
 
 ## Question 6
