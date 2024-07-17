@@ -185,6 +185,7 @@ Action A         [Condition 2]
 
 
 **(c) What is HIPO? Write down the differences between HIPO and IPO.**
+
 **HIPO (Hierarchy plus Input-Process-Output):** HIPO is a documentation technique used in systems analysis and design. It involves creating a hierarchical chart that represents the system's major functions and a set of diagrams that describe the inputs, processes, and outputs for each function.
 
 **Differences between HIPO and IPO:**
