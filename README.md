@@ -1,13 +1,9 @@
 # System Analysis and Design Exam Answers
 
-This repository contains detailed answers and explanations for the System Analysis and Design previous year exam questions. The aim is to provide comprehensive insights and study materials for students preparing for their exams.
-
-## Introduction
-
-This repository includes answers to the following questions from the B.Sc (HONS) in CSE Fourth Year Eighth Semester Examination. The answers cover key concepts, definitions, methodologies, and examples that are crucial for understanding system analysis and design.
+This repository contains detailed answers and explanations for the System Analysis and Design previous year exam questions. The aim is to provide comprehensive insights and study materials for students preparing for their exams.The answers cover key concepts, definitions, methodologies, and examples that are crucial for understanding system analysis and design.
 
 
-## SAD 2021
+## System Analysis Design 2021
 ## Question 1
 
 1. (a) Define system. Describe the elements of a system.
